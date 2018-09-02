@@ -1,0 +1,9 @@
+{
+  "name": "wouldyouwatch",
+  "version": "0.1.0",
+  "description": "Pick between two movies",
+  "main": "app.js",
+  "repository": "git@github.com:ethan0920/wouldyouwatch.git",
+  "author": "jd0920 <ethanmoffat34@gmail.com>",
+  "license": "MIT"
+}
